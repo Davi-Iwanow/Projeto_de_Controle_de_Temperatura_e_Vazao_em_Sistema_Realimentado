@@ -44,7 +44,8 @@ Neste projeto, buscamos controlar com precisão dois processos físicos – **te
 - MATLAB/Simulink
 - C/C++ para microcontroladores
 - KiCad (PCB Design)
-- Sensor de temperatura e vazão
+- Sensor de temperatura e vazão (DS18B20 e YF-S201)
+- Atuadores (Cooler e Resistência de chuveiro)
 - ESP32 / Arduino
 
 ---
